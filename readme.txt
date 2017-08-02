@@ -1,4 +1,4 @@
-=== User Shortcodes ===
+=== Gleam Shortcodes ===
 Contributors: Gleamfuture IT Services
 Tags: user information, user shortcodes, user
 Donate link: http://gleamfuture.com/gleam-shortcodes
@@ -36,8 +36,6 @@ This plugin has the following shortcodes
 
 == Screenshots ==
 
-1. Edit post with User Shortcodes
-2. Front end screen of User Shortcdoes
 
 http://gleamfuture.com/gleam-shortcodes
 
